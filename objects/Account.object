@@ -4,7 +4,7 @@
         <fullName>Helo_Dev_st4__c</fullName>
         <externalId>false</externalId>
         <label>Helo Dev st4</label>
-        <length>50</length>
+        <length>40</length>
         <required>false</required>
         <scale>0</scale>
         <trackFeedHistory>false</trackFeedHistory>
