@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
-        <fullName>mynum__c</fullName>
-        <externalId>false</externalId>
-        <label>mynum</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
+        <fullName>testss__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>testss</label>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>Number</type>
-        <unique>false</unique>
+        <type>Checkbox</type>
     </fields>
 </CustomObject>
