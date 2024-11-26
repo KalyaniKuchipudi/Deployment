@@ -3,7 +3,29 @@
     <fields>
         <fullName>testss__c</fullName>
         <defaultValue>false</defaultValue>
-        <label>testss</label>
+      <label>testss</label>
+        <fullName>Test_checkboc__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Test checkbox</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Helo_Dev_Two__c</fullName>
+        <externalId>false</externalId>
+        <label>Helo Dev two</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+     <fields>
+        <fullName>Helo_Dev_Three__c</fullName>
+        <externalId>false</externalId>
+        <label>Helo Dev Three</label>
+        <length>50</length>
+        <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
