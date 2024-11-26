@@ -8,7 +8,7 @@
         <required>false</required>
         <scale>0</scale>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>text</type>
+        <type>Text</type>
         <unique>false</unique>
     </fields>
 </CustomObject>
