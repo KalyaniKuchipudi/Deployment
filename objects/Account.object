@@ -5,6 +5,11 @@
         <externalId>false</externalId>
         <label>Quanitity</label>
         <precision>18</precision>
+     <fields>
+        <fullName>Helo_Dev_st1__c</fullName>
+        <externalId>false</externalId>
+        <label>Helo Dev st1</label>
+        <length>50</length>
         <required>false</required>
         <scale>0</scale>
         <trackFeedHistory>false</trackFeedHistory>
