@@ -7,7 +7,7 @@
         <length>40</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>text</type>
+        <type>Text</type>
         <unique>false</unique>
     </fields>
 </CustomObject>
