@@ -6,7 +6,6 @@
         <label>Helo Dev st5</label>
         <length>40</length>
         <required>false</required>
-        <scale>0</scale>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
         <unique>false</unique>
